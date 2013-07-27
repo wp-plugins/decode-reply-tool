@@ -35,6 +35,8 @@ Not at all! Decode is as simple as can be; you never need to look at a bit of co
 
 1. The Reply Tool as it appears when using the theme, Decode.
 
+2. The Reply Tool after being activated by drawing the cursor near or tapping on the "Reply" text.
+
 == Changelog ==
 
 = 1.0 =
