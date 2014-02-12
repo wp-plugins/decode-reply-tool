@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Decode Reply Tool v1.1.2\n"
+"Project-Id-Version: Decode Reply Tool v1.1.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-24\n"
 "PO-Revision-Date: 2013-09-01 13:27-0600\n"
@@ -19,82 +19,67 @@ msgstr ""
 "Language: fr_FR\n"
 "X-Poedit-SearchPath-0: .\n"
 
-# @ decode-reply-tool
-#: reply-tool-insert.php:3
-msgid "With Twitter"
-msgstr "Avec Twitter"
-
-# @ decode-reply-tool
-#: reply-tool-insert.php:5
-msgid "Reply"
-msgstr "Répondre"
-
-# @ decode-reply-tool
-#: reply-tool-insert.php:7
-msgid "With ADN"
-msgstr "Avec ADN"
-
-# @ decode-reply-tool
 #: reply-tool-loader.php:28
 msgid "Decode Reply Tool"
-msgstr "Decode Reply Tool"
+msgstr "Decode Antwort-Tool"
 
-# @ decode-reply-tool
 #: reply-tool-loader.php:41
 msgid "Enable/Disable"
-msgstr "Activer/Désactiver"
+msgstr "Aktivieren/Deaktivieren"
 
-# @ decode-reply-tool
 #: reply-tool-loader.php:42
 msgid "Display"
-msgstr "Position"
+msgstr "Anzeige"
 
-# @ decode-reply-tool
 #: reply-tool-loader.php:43
 msgid "Usernames"
-msgstr "Noms d'utilisateurs"
+msgstr "Benutzernamen"
 
-# @ decode-reply-tool
 #: reply-tool-loader.php:46
 msgid "Enable Reply Tool"
-msgstr "Activer Reply Tool"
+msgstr "Antwort-Tool aktivieren"
 
-# @ decode-reply-tool
 #: reply-tool-loader.php:47
 msgid "Display Above Posts"
-msgstr "Placer avant les articles"
+msgstr "Oberhalb der Posts anzeigen"
 
-# @ decode-reply-tool
 #: reply-tool-loader.php:48
 msgid "Display Below Posts"
-msgstr "Placer après les articles"
+msgstr "Unterhalb der Posts anzeigen"
 
-# @ decode-reply-tool
 #: reply-tool-loader.php:49
 msgid "Twitter Username"
-msgstr "Nom d'utilisateur Twitter"
+msgstr "Twitter Benutzername"
 
-# @ decode-reply-tool
 #: reply-tool-loader.php:50
 msgid "App.net Username"
-msgstr "Nom d'utilisateur App.net"
+msgstr "App.net Benutzername"
 
-# @ decode-reply-tool
 #: reply-tool-loader.php:54
 msgid "Do you want to enable or disable the reply tool on your site?"
-msgstr "Voulez-vous activer ou désactiver l'outil de réponse sur votre site ?"
+msgstr ""
+"Willst du das Antwort-Tool auf deiner Seite aktivieren oder deaktivieren?"
 
-# @ decode-reply-tool
 #: reply-tool-loader.php:58
 msgid "Choose how the reply tool is displayed on your site:"
-msgstr "Choisissez où placer l'outil de réponse sur votre site:"
+msgstr "W&auml:hle wie das Antwort-Tool auf deiner Seite angezeigt wird:"
 
-# @ decode-reply-tool
 #: reply-tool-loader.php:62
 msgid "Enter the usernames you want to be @mentioned to for replies:"
-msgstr "Entrez les noms d'utilisateurs qui apparaitront dans les réponses:"
+msgstr "Gib die Benutzernamen ein, welche bei Antworten erwähnt werden sollen:"
 
-# @ decode-reply-tool
 #: reply-tool-loader.php:95
 msgid "Decode Reply Tool Options"
-msgstr "Options de Decode Reply Tool"
+msgstr "Decode Antwort-Tool Einstellungen"
+
+#: reply-tool-insert.php:3
+msgid "With Twitter"
+msgstr "Mit Twitter"
+
+#: reply-tool-insert.php:5
+msgid "Reply"
+msgstr "Antworten"
+
+#: reply-tool-insert.php:7
+msgid "With ADN"
+msgstr "Mit ADN"
